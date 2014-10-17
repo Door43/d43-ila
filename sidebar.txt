@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ila:home|Door43 (ila)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ila|d43-ila repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ila/archive/master.zip|d43-ila.zip]]
+
+**Recent Changes**
+{{changes>ns = ila}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ila|Ethnologue data]]
+
